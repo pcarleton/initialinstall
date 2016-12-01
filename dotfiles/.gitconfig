@@ -1,0 +1,7 @@
+[user]
+	email = paulcarletonjr@gmail.com
+	name = Paul Carleton
+[alias]
+	co=checkout
+	lo=log --oneline
+	s=status
